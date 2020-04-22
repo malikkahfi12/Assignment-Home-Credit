@@ -1,0 +1,2 @@
+rootProject.name='HomeCreditAssign'
+include ':app'
